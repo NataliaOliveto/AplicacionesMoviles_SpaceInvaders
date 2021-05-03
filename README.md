@@ -23,7 +23,7 @@
 3. Realizar el código
 4. Testear y debuggear
 5. Crear el README.md
-6. Crear el [repositorio](https://github.com/NataliaOliveto/SpaceInvaders) final y compartirlo
+6. Crear el [repositorio](https://github.com/NataliaOliveto/AplicacionesMoviles_SpaceInvaders) final y compartirlo
 
 ---
 
@@ -58,7 +58,7 @@ DODGE THEIR BULLETS AND DON'T LET THEM REACH YOU
 3. Code the game
 4. Test and debug
 5. Create README.md
-6. Creat final [repository](https://github.com/NataliaOliveto/SpaceInvaders) and share
+6. Creat final [repository](https://github.com/NataliaOliveto/AplicacionesMoviles_SpaceInvaders) and share
 
 ---
 
