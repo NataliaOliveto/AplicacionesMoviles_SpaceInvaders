@@ -30,7 +30,7 @@ body {
 }
 
 a {
-  font-size: 18px;
+  font-size: 1em;
   color: white;
   display: block;
   text-decoration: none;
@@ -50,19 +50,19 @@ li {
   list-style-type: none;
   margin: 0px;
   padding: 0px;
-  font-size: 15px;
+  font-size: 0.9em;
 }
 
 span{
   display: block;
   margin: 0px 90px;
-  font-size: 10px;
+  font-size: 0.75em;
   padding: 2px 10px;
 }
 
 .paragraphTitle{
   text-align: center;
-  font-size: 20px;
+  font-size: 1.25em;
   padding: 10px 0px;
   display: block;
   color: #FFE539;
@@ -87,7 +87,7 @@ span{
 #startLink.ingame{
   top: 90%;
   left: 1%;
-  font-size: 14px;
+  font-size: 0.9em;
 }
 
 #menuLink {
@@ -98,7 +98,7 @@ span{
   display: block;
   top: 90%;
   left: 30%;;
-  font-size: 14px;
+  font-size: 0.9em;
 }
 
 #devLink {
@@ -109,7 +109,7 @@ span{
 #devLink.ingame{
   top: 92%;
   left: 75%;
-  font-size: 14px;
+  font-size: 0.9em;
 }
 
 #rulesLink {
@@ -120,12 +120,12 @@ span{
 #rulesLink.ingame {
   top: 92%;
   left: 57%;
-  font-size: 14px;
+  font-size: 0.9em;
 }
 
 #artistLink {
   position: initial;
-  font-size: 15px;
+  font-size: 1em;
   padding-left: 160px;
   padding-top: 5px;
 }
